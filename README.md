@@ -1,2 +1,3 @@
 # Somewhere-We-Know-MCJE-Server
 The official Minecraft server of SWK...
+## IP: 194.ip.ply.gg, Port: 10983
