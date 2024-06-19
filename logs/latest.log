@@ -1,0 +1,277 @@
+[08:04:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/playit-minecraft-plugin.jar'...
+[08:04:43] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/playit-minecraft-plugin.jar' in 2443ms.
+[08:04:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:04:48] [ServerMain/INFO]: Loaded 1175 recipes
+[08:04:48] [ServerMain/INFO]: Loaded 1276 advancements
+[08:04:49] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[08:04:49] [Server thread/WARN]: ****************************
+[08:04:49] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[08:04:49] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[08:04:49] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[08:04:49] [Server thread/WARN]: ****************************
+[08:04:49] [Server thread/INFO]: Loading properties
+[08:04:49] [Server thread/INFO]: This server is running Paper version 1.20.6-147-ver/1.20.6@e41d44f (2024-06-17T19:24:35Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[08:04:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:04:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:04:50] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[08:04:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[08:04:50] [Server thread/INFO]: Default game type: SURVIVAL
+[08:04:50] [Server thread/INFO]: Generating keypair
+[08:04:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:04:50] [Server thread/INFO]: Using epoll channel type
+[08:04:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:04:50] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:04:50] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[08:04:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:04:50] [Server thread/INFO]: Preparing level "world"
+[08:04:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:04:52] [Server thread/INFO]: Time elapsed: 1412 ms
+[08:04:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:04:53] [Server thread/INFO]: Time elapsed: 265 ms
+[08:04:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:04:53] [Server thread/INFO]: Time elapsed: 135 ms
+[08:04:53] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[08:04:54] [Server thread/INFO]: Running delayed init tasks
+[08:04:54] [Server thread/INFO]: Done (5.838s)! For help, type "help"
+[08:04:54] [Server thread/INFO]: Timings Reset
+[08:04:57] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key not set, generate claim code: d914b480040e1745
+[08:04:57] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:04:58] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:01] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:01] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:04] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:05] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:08] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:08] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:11] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:11] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:14] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:15] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:18] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:18] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:21] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:21] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/d914b480040e1745
+[08:05:24] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[08:05:25] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[08:05:25] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] create new minecraft java tunnel
+[08:05:39] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: basis-pixel.joinmc.link
+[08:05:39] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[08:05:39] [Thread-6/INFO]: playit.gg: tunnel setup
+[08:05:39] [Thread-6/INFO]: playit.gg: basis-pixel.joinmc.link
+[08:05:39] [Thread-6/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[08:05:40] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[08:05:41] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[08:05:42] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[08:09:26] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:10983, peerAddr=49.47.154.206:62445, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 42, -25, 49, 47, -102, -50, -13, -19, 126, 20, -48, 53, -85, 8, 102, 114, -110, 54, 0, 0, 0, 0, 0, 9, 65, 60, 0, 0, 0, 0, 0, 50, -99, 86, -107, 53, -85, 8, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -123, 95, 86, -10, -63, -18, -111, 5, -109, 46, 21, 88, -52, -75, 17, -51], tunnelServerId=1, dataCenterId=12}
+[08:09:26] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[08:09:26] [Thread-6/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[08:09:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[08:09:27] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[08:09:27] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[08:09:27] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[08:09:27] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[08:09:27] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[08:09:27] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[08:09:29] [User Authenticator #0/INFO]: Disconnecting CrazyRag778 (/127.0.0.1:44208): Failed to verify username!
+[08:09:29] [User Authenticator #0/ERROR]: Username 'CrazyRag778' tried to join with an invalid session
+[08:09:29] [Server thread/INFO]: CrazyRag778 (/127.0.0.1:44208) lost connection: Failed to verify username!
+[08:09:45] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[08:09:46] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:10983, peerAddr=49.47.154.206:62481, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 42, -25, 49, 47, -102, -50, -12, 17, -9, -35, -6, 13, -85, 8, 102, 114, -110, 73, 0, 0, 0, 0, 0, 9, 65, 60, 0, 0, 0, 0, 0, 50, -99, 86, 3, 13, -85, 8, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 124, 27, -41, 37, -71, 16, -73, -8, -38, -4, -72, 31, -61, -29, -103, 109], tunnelServerId=2, dataCenterId=12}
+[08:09:46] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[08:09:46] [Thread-6/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[08:09:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[08:09:46] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[08:09:47] [User Authenticator #0/INFO]: Disconnecting CrazyRag778 (/127.0.0.1:44182): Failed to verify username!
+[08:09:47] [User Authenticator #0/ERROR]: Username 'CrazyRag778' tried to join with an invalid session
+[08:09:47] [Server thread/INFO]: CrazyRag778 (/127.0.0.1:44182) lost connection: Failed to verify username!
+[08:12:15] [Server thread/INFO]: --------- Help: Index ---------------------------
+[08:12:15] [Server thread/INFO]: Use /help [n] to get page n of help.
+[08:12:15] [Server thread/INFO]: Aliases: Lists command aliases
+[08:12:15] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[08:12:15] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[08:12:15] [Server thread/INFO]: playit-gg: All commands for playit-gg
+[08:12:15] [Server thread/INFO]: /advancement: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /attribute: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /ban: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /banlist: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /callback: ClickEvent callback
+[08:12:15] [Server thread/INFO]: /clear: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /clone: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /damage: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /data: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /datapack: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /debug: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /deop: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /effect: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /enchant: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /execute: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /experience: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /fill: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /forceload: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /function: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /give: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /help: Shows the help menu
+[08:12:15] [Server thread/INFO]: /item: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /jfr: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /kick: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /kill: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /list: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /locate: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /loot: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /me: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:advancement: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:attribute: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:bossbar: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:clone: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:damage: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:data: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:datapack: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:debug: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:defaultgamemode: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:deop: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:difficulty: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:execute: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:experience: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:fill: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:fillbiome: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:forceload: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:function: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:jfr: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:loot: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:op: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:pardon-ip: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:particle: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:perf: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:pgive: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:place: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:playsound: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:random: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:return: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:save-all: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:save-off: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:save-on: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:say: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:scoreboard: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:seed: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:setblock: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:setidletimeout: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:setworldspawn: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:spawnpoint: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:spectate: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:spreadplayers: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:stop: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:stopsound: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:summon: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tag: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:team: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:teammsg: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tellraw: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tick: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:title: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tm: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:transfer: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:trigger: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:whitelist: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:worldborder: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /msg: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /mspt: View server tick times
+[08:12:15] [Server thread/INFO]: /op: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /paper: Paper related commands
+[08:12:15] [Server thread/INFO]: /pardon: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /particle: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /perf: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /pgive: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /place: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /playit: Configure playit.gg
+[08:12:15] [Server thread/INFO]: /playsound: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[08:12:15] [Server thread/INFO]: /random: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /recipe: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[08:12:15] [Server thread/INFO]: /restart: Restarts the server
+[08:12:15] [Server thread/INFO]: /return: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /ride: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /save-all: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /save-off: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /save-on: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /say: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /schedule: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /seed: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /setblock: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /spectate: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /spigot: Spigot related commands
+[08:12:15] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /stop: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /summon: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tag: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /team: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /teleport: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tell: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tick: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /time: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[08:12:15] [Server thread/INFO]: /title: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tm: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tp: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[08:12:15] [Server thread/INFO]: /transfer: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /trigger: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[08:12:15] [Server thread/INFO]: /w: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /weather: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[08:12:15] [Server thread/INFO]: /xp: A Mojang provided command.
+[08:13:46] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[08:17:46] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] send keep alive
