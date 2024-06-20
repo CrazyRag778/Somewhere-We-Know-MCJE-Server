@@ -1,11 +1,76 @@
-[08:37:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:37:27] [ServerMain/ERROR]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/Somewhere-We-Know-MCJE-Server/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:522) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:428) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at net.minecraft.server.Main.main(Main.java:197) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at org.bukkit.craftbukkit.Main.main(Main.java:328) ~[paper-1.20.6.jar:1.20.6-147-e41d44f]
-	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:41:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:41:18] [ServerMain/INFO]: Loaded 1175 recipes
+[08:41:19] [ServerMain/INFO]: Loaded 1276 advancements
+[08:41:19] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[08:41:19] [Server thread/WARN]: ****************************
+[08:41:19] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[08:41:19] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[08:41:19] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[08:41:19] [Server thread/WARN]: ****************************
+[08:41:19] [Server thread/INFO]: Loading properties
+[08:41:19] [Server thread/INFO]: This server is running Paper version 1.20.6-147-ver/1.20.6@e41d44f (2024-06-17T19:24:35Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[08:41:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:41:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:41:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[08:41:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[08:41:20] [Server thread/INFO]: Default game type: SURVIVAL
+[08:41:20] [Server thread/INFO]: Generating keypair
+[08:41:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:41:21] [Server thread/INFO]: Using epoll channel type
+[08:41:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:41:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:41:21] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[08:41:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:41:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:41:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:41:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:41:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:41:21] [Server thread/INFO]: Preparing level "world"
+[08:41:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:41:22] [Server thread/INFO]: Time elapsed: 1289 ms
+[08:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:41:23] [Server thread/INFO]: Time elapsed: 236 ms
+[08:41:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:41:23] [Server thread/INFO]: Time elapsed: 185 ms
+[08:41:23] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[08:41:25] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[08:41:25] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[08:41:25] [Server thread/INFO]: Running delayed init tasks
+[08:41:25] [Server thread/INFO]: Done (5.891s)! For help, type "help"
+[08:41:25] [Server thread/INFO]: Timings Reset
+[08:41:26] [Thread-6/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: basis-pixel.joinmc.link
+[08:41:26] [Thread-6/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[08:41:26] [Thread-6/INFO]: playit.gg: tunnel setup
+[08:41:26] [Thread-6/INFO]: playit.gg: basis-pixel.joinmc.link
+[08:41:27] [Thread-6/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[08:41:27] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[08:41:28] [Thread-6/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[08:41:44] [Server thread/INFO]: Stopping the server
+[08:41:44] [Server thread/INFO]: Stopping server
+[08:41:44] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[08:41:44] [Server thread/INFO]: Saving players
+[08:41:45] [Server thread/INFO]: Saving worlds
+[08:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.26s
+[08:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.08s
+[08:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:41:45] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
+[08:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:41:45] [Server thread/INFO]: Flushing Chunk IO
+[08:41:45] [Server thread/INFO]: Closing Thread Pool
+[08:41:45] [Server thread/INFO]: Closing Server
