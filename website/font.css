@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('path-to-minecraft-font.ttf') format('truetype');
+}
+
+body, h1, h2 {
+    font-family: 'Minecraft', sans-serif;
+}
