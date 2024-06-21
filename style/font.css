@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Minecraft';
-    src: url('../assets/fonts/MINECRAFT/MINECRAFTREGULAR-BMG3.OTF');
+    src: url('MINECRAFTREGULAR-BMG3.OTF');
 }
 
 body, h1, h2 {
